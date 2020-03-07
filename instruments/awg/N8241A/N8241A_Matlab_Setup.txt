@@ -1,0 +1,16 @@
+[Step 1]
+Keysight N8241A Arbitrary Waveform Generator
+https://uk.mathworks.com/matlabcentral/fileexchange/16358-keysight-n8241a-arbitrary-waveform-generator
+
+[Step 2]
+IVI Compliance Package
+https://www.ni.com/en-gb/support/downloads/drivers/download.ivi-compliance-package.html#329444
+
+[Step 3]
+VISA drivers included with Agilent IO Libraries
+http://agilent.com/find/iolib
+https://www.keysight.com/main/software.jspx?cc=GB&lc=eng&ckey=2175637&nid=-33330.977662&id=2175637
+
+[Step 4]
+N824x Arbitrary Waveform Generator Synthetic Instrument Module IVI Drivers and Control Utility
+https://www.keysight.com/main/software.jspx?ckey=1670471&gcURL=https://www.keysight.com:443/main/gated.jspx?lb=2&gatedId=1984025&cc=GB&lc=eng&parentContId=1670471&parentContType=sd&pageType=SW-Current%20Version|.Win&sd=Y
